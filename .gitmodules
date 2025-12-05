@@ -5,6 +5,9 @@
 [submodule "bdf3"]
 	path = bdf3
 	url = https://github.com/cran/bdf3
+[submodule "blockedFF"]
+	path = blockedFF
+	url = https://github.com/cran/blockedFF
 [submodule "rcd3"]
 	path = rcd3
 	url = https://github.com/cran/rcd3
