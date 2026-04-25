@@ -14,6 +14,9 @@
 [submodule "blockedFF"]
 	path = blockedFF
 	url = https://github.com/cran/blockedFF
+[submodule "lfebd3"]
+	path = lfebd3
+	url = https://github.com/cran/lfebd3
 [submodule "mixedfact"]
 	path = mixedfact
 	url = https://github.com/cran/mixedfact
