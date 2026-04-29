@@ -5,6 +5,9 @@
 [submodule "FactChar"]
 	path = FactChar
 	url = https://github.com/cran/FactChar
+[submodule "GRCFE"]
+	path = GRCFE
+	url = https://github.com/cran/GRCFE
 [submodule "MixFrac"]
 	path = MixFrac
 	url = https://github.com/cran/MixFrac
