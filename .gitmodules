@@ -8,6 +8,9 @@
 [submodule "GRCFE"]
 	path = GRCFE
 	url = https://github.com/cran/GRCFE
+[submodule "MFRCD"]
+	path = MFRCD
+	url = https://github.com/cran/MFRCD
 [submodule "MixFrac"]
 	path = MixFrac
 	url = https://github.com/cran/MixFrac
